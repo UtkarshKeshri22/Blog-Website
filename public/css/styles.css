@@ -30,6 +30,9 @@ h2{
 .navbar-nav  li a:hover {
     color: #CCF381 !important;
 }
+.footer-padding {
+	padding-bottom: 60px;
+}
 
 .footer {
 	position: absolute;
